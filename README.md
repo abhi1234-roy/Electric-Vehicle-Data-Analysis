@@ -106,7 +106,6 @@ Displays the leading vehicle models based on vehicle counts. The treemap allows 
 
 ## 6. Screenshots 
 
-`![Dashboard.png)`
+![Project Dashboard](Dashboard.png)
 
 - **Tableau Workbook:** [Tableau_link](https://public.tableau.com/app/profile/abhishek.kumar6400/viz/ElectricVehiclesDataAnalysis_17930359009680/Dashboard1?publish=yes)
-- **Dashboard Screenshot:** [Dashboard_image](https://github.com/abhi1234-roy/Electric-Vehicle-Data-Analysis/blob/main/Dashboard.png)
